@@ -1,1 +1,1 @@
-This is a practice string for Google Black Developers program.
+This is a portfolioo of all work I have done or contributed to.
